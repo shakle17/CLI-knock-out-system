@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1403695611 source:d:\alex\fax\seminarska\ooop\najbitno\main.cpp
+	<iostream>
+	<cmath>
+	"metodi.cpp"
+	<cstring>
+
+1403694678 d:\alex\fax\seminarska\ooop\najbitno\metodi.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+	<cstring>
+
+1403694506 d:\alex\fax\seminarska\ooop\najbitno\header.h
+	<iostream>
+	<cmath>
+
